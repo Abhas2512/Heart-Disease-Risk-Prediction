@@ -66,10 +66,10 @@ After comparative analysis, **Logistic Regression** demonstrated strong performa
 
 ## 🚀 Deployment
 
-The final Logistic Regression model is integrated into an interactive Streamlit application.
+The final Logistic Regression model is deployed as an interactive Streamlit web application.
 
-🔗 Live Demo (Hugging Face Spaces):  
-*(Add your link here after deployment)*
+🔗 **Live Application:**  
+https://heart-disease-risk-prediction25.streamlit.app
 
 ---
 
@@ -81,13 +81,7 @@ The final Logistic Regression model is integrated into an interactive Streamlit 
 - Pandas
 - NumPy
 
-
 ---
-
-## ⚠ Disclaimer
-
-This project is intended for educational and research purposes only and is not a substitute for professional medical diagnosis.
-
 ## 📂 Repository Structure
 ```
 Heart-Disease-Risk-Prediction/
@@ -99,3 +93,8 @@ Heart-Disease-Risk-Prediction/
 ├── requirements.txt        # Dependencies
 └── README.md               # Documentation
 ```
+---
+
+## ⚠ Disclaimer
+
+This project is intended for educational and research purposes only and is not a substitute for professional medical diagnosis.
